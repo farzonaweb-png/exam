@@ -1,0 +1,257 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+
+.kont {
+    display: flex;
+    justify-content: center;
+}
+
+.pixer {
+    padding: 30px;
+}
+
+header {
+    background-color: white;
+    color: black;
+    display: flex;
+    gap: 20px;
+    width: 1000px;
+}
+
+nav {
+    font-family: sans-serif;
+    margin-top: 38px;
+    display: flex;
+    gap: 20px;
+}
+
+.services:hover {
+    color: blue;
+    transition: ease;
+}
+
+.lio:hover {
+    color: blue;
+    transition: ease;
+}
+
+.team:hover {
+    color: blue;
+    transition: ease;
+}
+
+.nomer {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 380px;
+    margin-top: 25px;
+}
+
+.nomer:hover {
+    border: 1px solid black;
+    color: white;
+}
+
+.take {
+    display: flex;
+    justify-self: center;
+    gap: 60px;
+    background-color: white;
+    color: black;
+    height: 400px;
+    width: 1000px;
+}
+
+
+.level {
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.more {
+    background-color: #1AAB7B;
+    color: white;
+    margin-left: 50px;
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+    width: 120px;
+}
+
+.yt {
+    margin-top: 70px;
+}
+
+.how {
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 1000px;
+    height: 500px;
+}
+
+.kv {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.you {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.web {
+    border: 0.5px solid black;
+    padding: 20px;
+    width: 300px;
+    height: 280px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+.web:hover {
+    border: green;
+    background-color: #1AAB7B;
+    color: white;
+
+}
+
+.smm {
+    border: 0.5px solid black;
+    padding: 20px;
+    width: 300px;
+    height: 280px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+.smm:hover {
+    border: green;
+    background-color: #1AAB7B;
+    color: white;
+
+}
+
+.brand {
+    border: 0.5px solid black;
+    padding: 20px;
+    width: 300px;
+    height: 280px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+.brand:hover {
+    border: green;
+    background-color: #1AAB7B;
+    color: white;
+}
+
+.dev {
+    border: 0.5px solid black;
+    padding: 20px;
+    width: 300px;
+    height: 280px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+.dev:hover {
+    border: green;
+    background-color: #1AAB7B;
+    color: white;
+}
+
+.design {
+    border: 0.5px solid black;
+    padding: 20px;
+    width: 300px;
+    height: 280px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+.design:hover {
+    border: green;
+    background-color: #1AAB7B;
+    color: white;
+}
+
+.numberr {
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+    width: 500px;
+    padding: 40px;
+    border-radius: 5px;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    margin-top: 180px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: black;
+    width: 300px;
+    height: 30px;
+}
+
+.send {
+    margin-top: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #1AAB7B;
+    color: white;
+    width: 120px;
+    padding: 10px;
+}
+
+
+.pixerlogo {
+    display: flex;
+    justify-self: center;
+    background-color: black;
+    color: white;
+    width: 900px;
+    padding: 40px 40px;
+}
+
+.tri {
+    display: flex;
+    gap: 10px;
+    margin-left: 600px;
+    margin-top: 10px;
+}
